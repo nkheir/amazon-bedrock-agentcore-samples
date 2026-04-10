@@ -10,6 +10,7 @@ This repository contains step-by-step Jupyter notebooks demonstrating how to con
 | MCP Server | Notebook |
 |---|---|
 | [GitHub](https://github.com/github/github-mcp-server) | [github-mcp-server.ipynb](github-mcp-server.ipynb) |
+| [Runtime Statful MCP Server](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/mcp-stateful-features.html) | [runtime-stateful-mcp-server-3lo.ipynb](runtime-stateful-mcp-server-3lo.ipynb) |
 | [Atlassian (Jira/Confluence)](https://github.com/atlassian/atlassian-mcp-server) | Coming soon |
 | [Salesforce](https://help.salesforce.com/s/articleView?id=platform.hosted_mcp_servers.htm&type=5) | Coming soon |
 | [Snowflake](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-mcp) | Coming soon |
